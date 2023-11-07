@@ -5,5 +5,6 @@ import HeroBanner from './HeroBanner';
 import Exercises from './Exercises';
 import HorizontalScrollbar from './HorizontalScrollbar';
 import BodyPart from './BodyPart';
+import ExerciseCard from './ExerciseCard';
 
-export { Navbar, Footer, SearchExercises, HeroBanner, Exercises, HorizontalScrollbar, BodyPart };
+export { Navbar, Footer, SearchExercises, HeroBanner, Exercises, HorizontalScrollbar, BodyPart, ExerciseCard };
