@@ -17,7 +17,11 @@ function Navbar() {
         <Link to="/" style={{ borderBottom: '3px solid #ff2625', textDecoration: 'none', color: '#3a1212' }}>
           Home
         </Link>
-        <a href="excersies" style={{ textDecoration: 'none', color: '#3a1212' }}>
+        {/* <a href="/exercise" style={{ textDecoration: 'none', color: '#3a1212' }}>
+          Exercises
+        </a> */}
+
+        <a href="#exercises" style={{ textDecoration: 'none', color: '#3A1212' }}>
           Exercises
         </a>
       </Stack>
@@ -26,3 +30,4 @@ function Navbar() {
 }
 
 export default Navbar;
+// path="/exercise/:id"

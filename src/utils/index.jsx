@@ -1,3 +1,3 @@
-import { exerciseOptions, fetchData } from './fetchData';
+import { exerciseOptions, fetchData, youtubeOptions } from './fetchData';
 
-export { exerciseOptions, fetchData };
+export { exerciseOptions, fetchData, youtubeOptions };
